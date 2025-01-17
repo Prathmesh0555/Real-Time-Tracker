@@ -1,3 +1,6 @@
+## Real - Time Tracker
+
+ A real-time location tracking application using Node.js, Express, Socket.io, and Leaflet.
 
 ## Installation
 
